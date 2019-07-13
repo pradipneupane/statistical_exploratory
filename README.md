@@ -1,3 +1,7 @@
+Sometimes github has problems rendering jupyter notebook. If it fails to render 
+this please use this website http://nbviewer.jupyter.org and provide this link to that website
+
+
 In this repos, 
 I am going to mainly two different kind of visualization.
 ECDF visualisation 
